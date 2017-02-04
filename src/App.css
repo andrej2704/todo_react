@@ -45,6 +45,11 @@ li:hover span.delete-item {
   visibility: visible
 }
 
+.Footer a {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
