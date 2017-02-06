@@ -7,9 +7,7 @@ export const Footer = () => {
             <Link to="/">All</Link>
             <Link to="/active">Active</Link>
             <Link to="/complete">Complete</Link>
+        <a class="netlify" href="https://www.netlify.com"><img src="https://www.netlify.com/img/global/badges/netlify-light.svg"/></a>
         </div>
-        <a class="netlify" href="https://www.netlify.com">
-             <img src="https://www.netlify.com/img/global/badges/netlify-light.svg"/>
-        </a>
     )
 }
