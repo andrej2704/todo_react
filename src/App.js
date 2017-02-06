@@ -74,11 +74,6 @@ class App extends Component {
             <Footer/>
         </div>
       </div>
-      <div>
-        <a href="https://www.netlify.com">
-          <img src="https://www.netlify.com/img/global/badges/netlify-light.svg"/>
-        </a>
-      </div>
     );
   }
 }
